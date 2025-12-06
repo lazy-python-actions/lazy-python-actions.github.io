@@ -18,6 +18,10 @@ markup:
 
 menu:
   main:
+    - name: Python Footguns
+      pageRef: /python-footguns
+    - name: Python Project Structure
+      pageRef: /python-project-structure
     - name: Docs
       pageRef: /docs
       weight: 1
